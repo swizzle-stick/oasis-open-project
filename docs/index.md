@@ -8,4 +8,6 @@ PGB members include representatives of [EEA Community Projects sponsor organizat
 
 <iframe style="border-style: none;" width="800" height="400" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT38MUZFWO1ISzQWC6wSulN7IJCmYdSOIxBiofgO4c8mRF0hOuLEO59bW6McK2Lm0DgJkpaPLAf38AI/pubhtml?gid=463834327&single=true&widget=true&headers=false&chrome=false&single=false&gridlines=false&range=A1:E"></iframe>
 
-For information on joining sponsoring these projects or joining the governing board, please contact [communications@oasis-open.org](mailto:communications@oasis-open.org).
+For information on joining sponsoring these projects or joining the project governing board, please contact [communications@oasis-open.org](mailto:communications@oasis-open.org).
+
+test 1 - jan 10
