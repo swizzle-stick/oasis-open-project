@@ -1,1 +1,1 @@
-The members of the Swizzle Stick Project Governing Board are listed at https://swizzle-stick.github.io/pgb-viewer-test/
+This is the repo where we put all admin info such as the list of PGB members. 
